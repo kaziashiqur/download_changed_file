@@ -4,7 +4,7 @@
 git add .
 git commint -m "something"
 ```
-* Then past the .git file to the updated folder and run this command
+* Then paste the .git file to the updated folder and run this command
 ```
 git add .  
 git commit -m "something"   
