@@ -1,10 +1,10 @@
-### Git Update Version Vs Old Version -> Only Updated file Zip\
-* At first, in old folder, run this command\
+### Git Update Version Vs Old Version -> Only Updated file Zip
+* At first, in old folder, run this command
 ```
 git add .
 git commint -m "something"
 ```
-* Then past the .git file to the updated folder and run this command\
+* Then past the .git file to the updated folder and run this command
 ```
 git add .  
 git commit -m "something"   
