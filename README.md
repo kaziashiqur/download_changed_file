@@ -12,5 +12,4 @@ git commit -m "something"
 git archive --output=modified_and_added_files.zip HEAD -- $(git diff --name-only --diff-filter=AM HEAD~1..HEAD)  
 git reset HEAD~1
 ```
-
 ### Thats all, now you can see the updated file zip named modified_and_added_filez.zip in the new folder
