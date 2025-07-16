@@ -3,7 +3,7 @@
 ```
 git init
 git add .
-git commint -m "something"
+git commit -m "something"
 ```
 * Then paste the .git file to the updated folder and run this command
 ```
